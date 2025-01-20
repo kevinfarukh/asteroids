@@ -1,3 +1,3 @@
 # asteroids
 
-This is a game created with javascript
+This is a game created with html, css and javascript
